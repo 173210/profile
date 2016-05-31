@@ -1,0 +1,3 @@
+[submodule "depot_tools"]
+	path = depot_tools
+	url = https://github.com/173210/depot_tools.git
